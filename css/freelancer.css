@@ -459,18 +459,4 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-}/*
-
-.flex {
-    display: flex;
 }
-
-#one, #two, #three {
-    flex: none;
-}
-
-@media (max-width: 970px) {
-    .flex > #one {
-        order: 2;
-    }
-}*/
