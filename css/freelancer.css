@@ -446,3 +446,8 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.white:link {
+    color: white;
+    text-decoration: none;
+}
