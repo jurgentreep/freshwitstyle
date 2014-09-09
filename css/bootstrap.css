@@ -1192,7 +1192,7 @@ a.bg-primary:hover {
   background-color: #18bc9c;
 }
 a.bg-success:hover {
-  background-color: #128f76;
+  background-color: #0088a1;
 }
 .bg-info {
   background-color: #3498db;
@@ -4216,11 +4216,11 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: transparent;
 }
 .navbar-inverse .navbar-toggle {
-  border-color: #128f76;
+  border-color: #0088a1;
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-  background-color: #128f76;
+  background-color: #0088a1;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
   background-color: #ffffff;
@@ -4475,7 +4475,7 @@ a.label:focus {
 }
 .label-success[href]:hover,
 .label-success[href]:focus {
-  background-color: #128f76;
+  background-color: #0088a1;
 }
 .label-info {
   background-color: #3498db;
