@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    width: 100%;
 }
 
 p {
@@ -102,7 +103,7 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Roboto",Helvetica,Arial,sans-serif;
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: 700;
 }
 
